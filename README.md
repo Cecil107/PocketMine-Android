@@ -1,3 +1,3 @@
-## PocketMine-MP for Android
+## ImagicalMine-IC for Android
 
-Read the license :)
+Not complete yet!
